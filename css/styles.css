@@ -1,0 +1,21 @@
+#exactly100 {
+    display: none;
+}
+#under100 {
+    display: none;
+}
+#under80 {
+    display: none;
+}
+#under60 {
+    display: none;
+}
+#under40 {
+    display: none;
+}
+#under20 {
+    display: none;
+}
+#percent {
+    display: none;
+}
